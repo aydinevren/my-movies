@@ -1,0 +1,59 @@
+@import url(//db.onlinewebfonts.com/c/690851c1b7c2039da9ad7d132a8bc644?family=Anodina);
+.nav{
+    margin-bottom: 2% !important;
+    background-color: rgb(114, 1, 1);
+    font-size: 18px;
+    font-family:Anodina;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link{
+    color: #f7e2e2;
+    text-decoration: none;
+    background-color: rgb(114, 1, 1);   
+}   
+
+.nav-link:hover {
+    color:rgb(199, 235, 252);
+    background-color: rgba(185, 11, 11, 0.753);
+}
+
+.nav-link-signin-link{
+    font-size: 15px;
+    position: absolute;
+    color:rgb(252, 235, 235);
+    right: 0px;
+    top:8px;
+    width: 150px;
+}
+
+.nav-link-signin-link-or{
+    font-size: 15px;
+    position: absolute;
+    color:rgb(252, 235, 235);
+    right: 0px;
+    top:8px;
+    width: 100px;
+    font-style: italic;
+}
+
+.nav-link-signin-link-register{
+    font-size: 15px;
+    position: absolute;
+    color:rgb(252, 235, 235);
+    right: 0px;
+    top:8px;
+    width: 80px;
+}
+
+.nav-link-signin-link:hover{
+    color: thistle;
+    text-decoration: none;
+}
+
+.nav-link-signin-link-register:hover{
+    color: thistle;
+    text-decoration: none;
+}

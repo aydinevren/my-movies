@@ -1,0 +1,31 @@
+.navbarmenu{
+    background: #222222;
+    background-color: rgb(37, 8, 8);
+    height:    90px;
+    width: auto;
+    overflow: hidden;
+    position: relative;
+    margin-top: 12px;
+    padding: 2% 0% 0% 2%;
+    text-align: left;
+    bottom:0;
+    font-size: 17px;
+   
+
+}
+.navbarmenu a{
+    color: rgb(252, 204, 204);
+    text-decoration: none;
+   
+}
+
+.navbarmenu a:hover{
+    color: rgb(196, 151, 140);
+    text-decoration: none;
+}
+
+.footerinfo {
+    color:cornsilk;
+    text-align:center;
+    font-size: 15px;
+}
